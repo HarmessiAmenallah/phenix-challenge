@@ -5,7 +5,7 @@
 ## Run
 
 
-java -jar votrejar.jar -i input -o output
+java -jar fichier.jar -i input -o output
 
 
 ## Environnement de travail
