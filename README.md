@@ -62,7 +62,7 @@ java -jar fichier.jar -i input -o output
   
   INTELLIJ
   
-  SCALA
+  SCALA 2.12.8
   
   SBT
 
