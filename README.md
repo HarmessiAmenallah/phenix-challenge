@@ -1,4 +1,4 @@
-## cette solution est une reponse au carrefour-challenge
+## Cette solution est une reponse au Carrefour-challenge
 
 
 Énoncé:
@@ -47,7 +47,9 @@ Les résultats sont les fichiers:
 
 # phenix-challenge
 
-la génération des donnees est assurée par le package  dataGen qui assure la generation des fichiers de transactions et de reference produits dont nous souhaitons calculés les indicateurs
+la génération des donnees est assurée par le package  dataGen qui assure la generation des fichiers de transactions et de reference produits dont nous souhaitons calculés les indicateurs.
+
+L’application permet de traiter les fichiers de transaction et de référence de carrefour. Les Quantités vendues et le chiffre d’affaires obtenu sont triés et le top 100 est écrit dans un fichier. Cette action est effectuée globalement et pour chaque magasin unitairement.
 
 ## Run
 
