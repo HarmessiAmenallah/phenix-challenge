@@ -64,7 +64,7 @@ java -jar fichier.jar -i input -o output
   
   SCALA 2.12.8
   
-  SBT
+  SBT  1.2.8
 
 
 ## Limitation de la RAM
